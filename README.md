@@ -34,8 +34,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#401](https://github.com/Shopify/vscode-ruby-lsp/issues/401) in [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)
-2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+2. 🗣 Commented on [#401](https://github.com/Shopify/vscode-ruby-lsp/issues/401) in [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)
 <!--END_SECTION:activity-->
 
 <!--
