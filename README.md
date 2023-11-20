@@ -42,8 +42,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#463](https://github.com/dry-rb/dry-types/pull/463) in [dry-rb/dry-types](https://github.com/dry-rb/dry-types)
-2. ❗️ Opened issue [#900](https://github.com/Shopify/vscode-ruby-lsp/issues/900) in [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)
+1. 🗣 Commented on [#900](https://github.com/Shopify/vscode-ruby-lsp/issues/900) in [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)
+2. 💪 Opened PR [#463](https://github.com/dry-rb/dry-types/pull/463) in [dry-rb/dry-types](https://github.com/dry-rb/dry-types)
 <!--END_SECTION:activity-->
 
 <!--
