@@ -42,8 +42,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#473](https://github.com/dry-rb/dry-schema/pull/473) in [dry-rb/dry-schema](https://github.com/dry-rb/dry-schema)
-2. 🗣 Commented on [#900](https://github.com/Shopify/vscode-ruby-lsp/issues/900) in [Shopify/vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)
+1. ❗️ Opened issue [#12](https://github.com/pheen/fuzzy_ruby_server/issues/12) in [pheen/fuzzy_ruby_server](https://github.com/pheen/fuzzy_ruby_server)
+2. 💪 Opened PR [#473](https://github.com/dry-rb/dry-schema/pull/473) in [dry-rb/dry-schema](https://github.com/dry-rb/dry-schema)
 <!--END_SECTION:activity-->
 
 <!--
