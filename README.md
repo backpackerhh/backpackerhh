@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-where-you-automatically-add-your-latest-posts-to-your-github-profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699528730003/9fa4084e-9934-4eab-b422-d9abb7a11d4b.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Mon, 04 Dec 2023 10:48:26 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-where-you-automatically-add-your-latest-posts-to-your-github-profile"><b>The one where you automatically add your latest posts to your GitHub profile</b></a>
+				<p>A few weeks ago I was taking a look at the list of posts featured on Hashnode when suddenly I saw one that immediately caught my eye:  In that post Sandro, member of the Hashnode Engineering team, lists up to 6 examples of what you can build taking a...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-browserpass"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694701929855/b8003002-0811-4581-9cfe-d9fda8dfea49.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 01 Nov 2023 14:21:56 GMT</sup><br />
