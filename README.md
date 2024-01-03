@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/pheen/fuzzy_ruby_server/issues/12) in [pheen/fuzzy_ruby_server](https://github.com/pheen/fuzzy_ruby_server)
-2. 💪 Opened PR [#473](https://github.com/dry-rb/dry-schema/pull/473) in [dry-rb/dry-schema](https://github.com/dry-rb/dry-schema)
+1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+2. ❗️ Opened issue [#12](https://github.com/pheen/fuzzy_ruby_server/issues/12) in [pheen/fuzzy_ruby_server](https://github.com/pheen/fuzzy_ruby_server)
 <!--END_SECTION:activity-->
 
 <!--
