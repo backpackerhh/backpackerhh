@@ -51,7 +51,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
-2. ❗️ Opened issue [#12](https://github.com/pheen/fuzzy_ruby_server/issues/12) in [pheen/fuzzy_ruby_server](https://github.com/pheen/fuzzy_ruby_server)
+2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
 <!--END_SECTION:activity-->
 
 <!--
