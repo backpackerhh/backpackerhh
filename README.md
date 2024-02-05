@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pUYzNpizW00/upload/1d75dbbf7fc15f719c48e703b29ee868.jpeg" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Mon, 05 Feb 2024 10:59:14 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><b>The one about my experience working remotely</b></a>
+				<p>In this article I'd like to talk about my personal experience with remote work and how my opinion on the matter has been changing (or evolving) considerably since I started working as a software developer back in 2009. I consider that there are three...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-mobile-apps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695899612465/5636a47d-bda1-4bb4-b2c9-fbd09c0357a6.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Mon, 08 Jan 2024 13:09:57 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 02 Oct 2023 08:02:25 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-mouse-jiggler-in-ubuntu"><b>The one with a mouse jiggler in Ubuntu</b></a>
 				<p>Lately I've been using Plex to stream movies and TV shows from the laptop in my study to the TV in my living room. So I needed to prevent the laptop from sleeping while I was watching something. The easiest way and probably the most obvious one was c...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-pass"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FnA5pAzqhMM/upload/ee44def636e20ff6efabe239bfb38778.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Thu, 14 Sep 2023 11:51:40 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-pass"><b>The one with a password manager: pass</b></a>
-				<p>Nowadays I find it impossible not to use a password manager to keep my data secure. However, it wasn't always that way. As we've probably all done at one time or another, I used to use the same password on multiple sites. It wasn't always the same, b...</p>
 			</td>
 		</tr>
 </table>
