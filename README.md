@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-blue-book-of-ddd"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710322136656/4528c23e-dc58-470a-8046-7cc6a522d91f.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Wed, 13 Mar 2024 09:31:19 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-blue-book-of-ddd"><b>The one with highlights of the blue book of DDD</b></a>
+				<p>This is an introduction to a new series where I'd like to highlight the most important parts of some technical books that I've read. Usually I read in my old Kindle Voyage and I highlight every part of the text that I consider it's worth remembering....</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pUYzNpizW00/upload/1d75dbbf7fc15f719c48e703b29ee868.jpeg" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Mon, 05 Feb 2024 10:59:14 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 01 Nov 2023 14:21:56 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-browserpass"><b>The one with a password manager: Browserpass</b></a>
 				<p>In the previous post of this series I talked about pass, the desktop utility I use in Ubuntu Mate 22.04 as password manager. I recommend you to read that post first in case you are unfamiliar with the concept of password manager or password store. To...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-a-mouse-jiggler-in-ubuntu"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696187127142/786c5df6-75d5-4f27-b428-62e9e53e0c56.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 02 Oct 2023 08:02:25 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-mouse-jiggler-in-ubuntu"><b>The one with a mouse jiggler in Ubuntu</b></a>
-				<p>Lately I've been using Plex to stream movies and TV shows from the laptop in my study to the TV in my living room. So I needed to prevent the laptop from sleeping while I was watching something. The easiest way and probably the most obvious one was c...</p>
 			</td>
 		</tr>
 </table>
