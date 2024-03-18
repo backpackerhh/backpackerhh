@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+1. ❗️ Opened issue [#1706](https://github.com/Shopify/ruby-lsp/issues/1706) in [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp)
 2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
 <!--END_SECTION:activity-->
 
