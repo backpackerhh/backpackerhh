@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1706](https://github.com/Shopify/ruby-lsp/issues/1706) in [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp)
-2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+1. 💪 Opened PR [#1](https://github.com/backpackerhh/challenge-be-fintech-disbursements-rails/pull/1) in [backpackerhh/challenge-be-fintech-disbursements-rails](https://github.com/backpackerhh/challenge-be-fintech-disbursements-rails)
+2. ❗️ Opened issue [#1706](https://github.com/Shopify/ruby-lsp/issues/1706) in [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp)
 <!--END_SECTION:activity-->
 
 <!--
