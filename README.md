@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717068677764/615f4ad9-0ec2-40fd-bb94-0a46baa95f82.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Thu, 30 May 2024 15:05:57 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><b>The one about my favorite project (so far)</b></a>
+				<p>My favorite project ever is the custom video player developed during my time at Domestika. More details about my experience at that company can be found here. At some point a security issue was detected related with Wistia, one of our video providers...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-red-book-of-ddd"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711909751649/68a28efd-6897-4c32-8c15-74b27f252062.jpeg" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 03 Apr 2024 18:08:30 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 08 Jan 2024 13:09:57 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-mobile-apps"><b>The one with a password manager: mobile apps</b></a>
 				<p>In previous posts of this series I talked about pass and Browserpass, the desktop utility and the browser extension I use to manage my passwords in Ubuntu Mate 22.04. I recommend you to first read those posts in case you are unfamiliar with the conce...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-where-you-automatically-add-your-latest-posts-to-your-github-profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699528730003/9fa4084e-9934-4eab-b422-d9abb7a11d4b.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 04 Dec 2023 10:48:26 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-where-you-automatically-add-your-latest-posts-to-your-github-profile"><b>The one where you automatically add your latest posts to your GitHub profile</b></a>
-				<p>A few weeks ago I was taking a look at the list of posts featured on Hashnode when suddenly I saw one that immediately caught my eye:  In that post Sandro, member of the Hashnode Engineering team, lists up to 6 examples of what you can build taking a...</p>
 			</td>
 		</tr>
 </table>
