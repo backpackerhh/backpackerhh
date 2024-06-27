@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LcSpQ36Q2us/upload/d816453b5189db61d2d8234dc15a5283.jpeg" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Thu, 27 Jun 2024 18:50:00 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><b>The one about mentoring junior developers</b></a>
+				<p>In the last few months I have been looking for a new job as a software developer and during the hiring process I have been asked a few times what is my approach to mentoring a junior developer. In this post I intend to give an extended answer of the ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717068677764/615f4ad9-0ec2-40fd-bb94-0a46baa95f82.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Thu, 30 May 2024 15:05:57 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 05 Feb 2024 10:59:14 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><b>The one about my experience working remotely</b></a>
 				<p>In this article I'd like to talk about my personal experience with remote work and how my opinion on the matter has been changing (or evolving) considerably since I started working as a software developer back in 2009. I consider that there are three...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-mobile-apps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695899612465/5636a47d-bda1-4bb4-b2c9-fbd09c0357a6.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 08 Jan 2024 13:09:57 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-with-a-password-manager-mobile-apps"><b>The one with a password manager: mobile apps</b></a>
-				<p>In previous posts of this series I talked about pass and Browserpass, the desktop utility and the browser extension I use to manage my passwords in Ubuntu Mate 22.04. I recommend you to first read those posts in case you are unfamiliar with the conce...</p>
 			</td>
 		</tr>
 </table>
