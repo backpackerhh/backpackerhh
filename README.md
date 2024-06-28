@@ -51,7 +51,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
-2. 🎉 Merged PR [#1](https://github.com/backpackerhh/challenge-be-fintech-disbursements-rails/pull/1) in [backpackerhh/challenge-be-fintech-disbursements-rails](https://github.com/backpackerhh/challenge-be-fintech-disbursements-rails)
+2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
 <!--END_SECTION:activity-->
 
 <!--
