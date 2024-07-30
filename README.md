@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/c295a3685977753ea517b94baf159260.jpeg" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Tue, 30 Jul 2024 17:58:41 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><b>The one about my new job</b></a>
+				<p>After I left Domestika last year, I decided to take some time off. After a few weeks I started taking lots of courses mainly related to clean code, DDD, software architecture, TypeScript and other similar stuff.  I spent a lot of time putting those l...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LcSpQ36Q2us/upload/d816453b5189db61d2d8234dc15a5283.jpeg" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Thu, 27 Jun 2024 18:50:00 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 13 Mar 2024 09:31:19 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-blue-book-of-ddd"><b>The one with highlights of the blue book of DDD</b></a>
 				<p>This is an introduction to a new series where I'd like to highlight the most important parts of some technical books that I've read. Usually I read in my old Kindle Voyage and I highlight every part of the text that I consider it's worth remembering....</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pUYzNpizW00/upload/1d75dbbf7fc15f719c48e703b29ee868.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 05 Feb 2024 10:59:14 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-experience-working-remotely"><b>The one about my experience working remotely</b></a>
-				<p>In this article I'd like to talk about my personal experience with remote work and how my opinion on the matter has been changing (or evolving) considerably since I started working as a software developer back in 2009. I consider that there are three...</p>
 			</td>
 		</tr>
 </table>
