@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1035](https://github.com/pqrs-org/Karabiner-Elements/issues/1035) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-2. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+1. 🗣 Commented on [#1](https://github.com/backpackerhh/blog-posts/issues/1) in [backpackerhh/blog-posts](https://github.com/backpackerhh/blog-posts)
+2. 🗣 Commented on [#1035](https://github.com/pqrs-org/Karabiner-Elements/issues/1035) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 <!--END_SECTION:activity-->
 
 <!--
