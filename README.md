@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b18TRXc8UPQ/upload/1047f0401b548ebe628ca4534e6783a0.jpeg" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Thu, 29 Aug 2024 18:27:49 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><b>The one about working with macOS being a Linux user</b></a>
+				<p>I will start with an unpopular opinion: I hate macOS and I hate Apple. TL;DR Next I will explain my reasons behind that unpopular opinion. In case you are not interested in my opinion or simply want to see what I did as a Linux user to (kind of) happ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/c295a3685977753ea517b94baf159260.jpeg" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Tue, 30 Jul 2024 17:58:41 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 03 Apr 2024 18:08:30 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-red-book-of-ddd"><b>The one with highlights of the red book of DDD</b></a>
 				<p>Today I'll highlight my favorite book about Domain-Driven Design (DDD) so far, written by Vaughn Vernon more than 10 years ago: Implementing Domain-Driven Design.  1. Getting started with DDD The software development approach called Domain-Driven Des...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-blue-book-of-ddd"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710322136656/4528c23e-dc58-470a-8046-7cc6a522d91f.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Wed, 13 Mar 2024 09:31:19 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-blue-book-of-ddd"><b>The one with highlights of the blue book of DDD</b></a>
-				<p>This is an introduction to a new series where I'd like to highlight the most important parts of some technical books that I've read. Usually I read in my old Kindle Voyage and I highlight every part of the text that I consider it's worth remembering....</p>
 			</td>
 		</tr>
 </table>
