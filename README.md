@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-conditionals-in-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727548097607/573dff93-6e49-4330-9d17-abcb020cdca9.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sat, 28 Sep 2024 19:57:12 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-conditionals-in-ruby"><b>The one about conditionals in Ruby</b></a>
+				<p>Conditionals control the flow of execution of your program based on conditions that you define. In Ruby we have conditional statements such as if, else, elsif, unless, case, or the ternary operator. Here I would like to focus on what I consider to be...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b18TRXc8UPQ/upload/1047f0401b548ebe628ca4534e6783a0.jpeg" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Thu, 29 Aug 2024 18:27:49 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Thu, 30 May 2024 15:05:57 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><b>The one about my favorite project (so far)</b></a>
 				<p>My favorite project ever is the custom video player developed during my time at Domestika. More details about my experience at that company can be found here. At some point a security issue was detected related with Wistia, one of our video providers...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-red-book-of-ddd"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711909751649/68a28efd-6897-4c32-8c15-74b27f252062.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Wed, 03 Apr 2024 18:08:30 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-with-highlights-of-the-red-book-of-ddd"><b>The one with highlights of the red book of DDD</b></a>
-				<p>Today I'll highlight my favorite book about Domain-Driven Design (DDD) so far, written by Vaughn Vernon more than 10 years ago: Implementing Domain-Driven Design.  1. Getting started with DDD The software development approach called Domain-Driven Des...</p>
 			</td>
 		</tr>
 </table>
