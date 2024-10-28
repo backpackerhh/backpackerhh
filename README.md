@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-linting-in-a-legacy-ruby-project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729268982009/0a5f70da-23a7-4955-b141-d70f89c32591.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Mon, 28 Oct 2024 07:06:37 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-linting-in-a-legacy-ruby-project"><b>The one about linting in a legacy Ruby project</b></a>
+				<p>Previously, I mentioned that I recently started working on a new project. New for me, of course. The platform of this American fintech consists of many applications developed in multiple programming languages, but mainly in Ruby. There are several de...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-conditionals-in-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727548097607/573dff93-6e49-4330-9d17-abcb020cdca9.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sat, 28 Sep 2024 19:57:12 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Thu, 27 Jun 2024 18:50:00 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><b>The one about mentoring junior developers</b></a>
 				<p>In the last few months I have been looking for a new job as a software developer and during the hiring process I have been asked a few times what is my approach to mentoring a junior developer. In this post I intend to give an extended answer of the ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717068677764/615f4ad9-0ec2-40fd-bb94-0a46baa95f82.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Thu, 30 May 2024 15:05:57 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-favorite-project-so-far"><b>The one about my favorite project (so far)</b></a>
-				<p>My favorite project ever is the custom video player developed during my time at Domestika. More details about my experience at that company can be found here. At some point a security issue was detected related with Wistia, one of our video providers...</p>
 			</td>
 		</tr>
 </table>
