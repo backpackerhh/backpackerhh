@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-how-things-work-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1732900874679/eea7edb0-55df-42a2-b2b1-70b72479e99c.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Fri, 29 Nov 2024 17:23:54 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-how-things-work-in-an-american-fintech"><b>The one about how things work in an American fintech</b></a>
+				<p>This is my first time working for any American company. In many ways things work differently here than with other companies I have previously worked for, so I will tell you here about the ins and outs of this American fintech I am working for as a co...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-linting-in-a-legacy-ruby-project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729268982009/0a5f70da-23a7-4955-b141-d70f89c32591.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Mon, 28 Oct 2024 07:06:37 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Tue, 30 Jul 2024 17:58:41 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><b>The one about my new job</b></a>
 				<p>After I left Domestika last year, I decided to take some time off. After a few weeks I started taking lots of courses mainly related to clean code, DDD, software architecture, TypeScript and other similar stuff.  I spent a lot of time putting those l...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LcSpQ36Q2us/upload/d816453b5189db61d2d8234dc15a5283.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Thu, 27 Jun 2024 18:50:00 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-about-mentoring-junior-developers"><b>The one about mentoring junior developers</b></a>
-				<p>In the last few months I have been looking for a new job as a software developer and during the hiring process I have been asked a few times what is my approach to mentoring a junior developer. In this post I intend to give an extended answer of the ...</p>
 			</td>
 		</tr>
 </table>
