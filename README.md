@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-using-factories-with-entities-in-sinatra"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734812714751/a2e4b95b-09b5-4e3e-b915-9a523cc9b668.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Mon, 23 Dec 2024 09:53:04 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-using-factories-with-entities-in-sinatra"><b>The one about using factories with entities in Sinatra</b></a>
+				<p>I mentioned in a previous post that in the project I am currently working on we do not use Rails in most of the applications. There are some exceptions in certain legacy applications that represent the core of the project, from which we have been pro...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-how-things-work-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1732900874679/eea7edb0-55df-42a2-b2b1-70b72479e99c.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Fri, 29 Nov 2024 17:23:54 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Thu, 29 Aug 2024 18:27:49 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><b>The one about working with macOS being a Linux user</b></a>
 				<p>I will start with an unpopular opinion: I hate macOS and I hate Apple. TL;DR Next I will explain my reasons behind that unpopular opinion. In case you are not interested in my opinion or simply want to see what I did as a Linux user to (kind of) happ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/c295a3685977753ea517b94baf159260.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Tue, 30 Jul 2024 17:58:41 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-about-my-new-job"><b>The one about my new job</b></a>
-				<p>After I left Domestika last year, I decided to take some time off. After a few weeks I started taking lots of courses mainly related to clean code, DDD, software architecture, TypeScript and other similar stuff.  I spent a lot of time putting those l...</p>
 			</td>
 		</tr>
 </table>
