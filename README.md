@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-learning-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737487504845/5aa24c3c-3b31-4dab-9b10-db7981d4b53c.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sat, 25 Jan 2025 12:08:35 GMT</sup><br />
+				<a href="https://blog.davidmontesdeoca.es/the-one-about-learning-ruby"><b>The one about learning Ruby</b></a>
+				<p>I started working with Ruby in early 2010, on projects developed with Ruby on Rails. My mentor was influential enough to convince our bosses that this programming language and this framework were the best choice for future projects. We usually worked...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-using-factories-with-entities-in-sinatra"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734812714751/a2e4b95b-09b5-4e3e-b915-9a523cc9b668.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Mon, 23 Dec 2024 09:53:04 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Sat, 28 Sep 2024 19:57:12 GMT</sup><br />
 				<a href="https://blog.davidmontesdeoca.es/the-one-about-conditionals-in-ruby"><b>The one about conditionals in Ruby</b></a>
 				<p>Conditionals control the flow of execution of your program based on conditions that you define. In Ruby we have conditional statements such as if, else, elsif, unless, case, or the ternary operator. Here I would like to focus on what I consider to be...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b18TRXc8UPQ/upload/1047f0401b548ebe628ca4534e6783a0.jpeg" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Thu, 29 Aug 2024 18:27:49 GMT</sup><br />
-				<a href="https://blog.davidmontesdeoca.es/the-one-about-working-with-macos-being-a-linux-user"><b>The one about working with macOS being a Linux user</b></a>
-				<p>I will start with an unpopular opinion: I hate macOS and I hate Apple. TL;DR Next I will explain my reasons behind that unpopular opinion. In case you are not interested in my opinion or simply want to see what I did as a Linux user to (kind of) happ...</p>
 			</td>
 		</tr>
 </table>
