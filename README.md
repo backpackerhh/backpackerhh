@@ -9,7 +9,7 @@
 			<td>
 				<sup>Sat, 25 Jan 2025 12:08:35 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-learning-ruby"><b>The one about learning Ruby</b></a>
-				<p>I started working with Ruby in early 2010, on projects developed with Ruby on Rails. My mentor was influential enough to convince our bosses that this programming language and this framework were the best choice for future projects. We usually worked...</p>
+				<p>title: "The one about learning Ruby" seoDescription: "Guide for beginners and experienced developers that would like to start learning Ruby" datePublished: Sat Jan 25 2025 12:08:35 GMT+0000 (Coordinated Universal Time) cuid: cm6c5d9pn000309jyfsh1ft1k...</p>
 			</td>
 		</tr>
 <tr>
