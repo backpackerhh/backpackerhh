@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739389878945/8ac5c897-37fc-40ba-8aba-b9cfadc40e09.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Wed, 26 Feb 2025 17:00:47 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><b>The one about my experience working for an American fintech</b></a>
+				<p>In a previous post, I talked about how things work in the American fintech I am currently working for as a contractor. I initially planned to write this post after my first three months, but I postponed it when we learned that all teams in the Transa...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-learning-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737487504845/5aa24c3c-3b31-4dab-9b10-db7981d4b53c.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sat, 25 Jan 2025 12:08:35 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 28 Oct 2024 07:06:37 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-linting-in-a-legacy-ruby-project"><b>The one about linting in a legacy Ruby project</b></a>
 				<p>Previously, I mentioned that I recently started working on a new project. New for me, of course. The platform of this American fintech consists of many applications developed in multiple programming languages, but mainly in Ruby. There are several de...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-conditionals-in-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727548097607/573dff93-6e49-4330-9d17-abcb020cdca9.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Sat, 28 Sep 2024 19:57:12 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-conditionals-in-ruby"><b>The one about conditionals in Ruby</b></a>
-				<p>Conditionals control the flow of execution of your program based on conditions that you define. In Ruby we have conditional statements such as if, else, elsif, unless, case, or the ternary operator. Here I would like to focus on what I consider to be...</p>
 			</td>
 		</tr>
 </table>
