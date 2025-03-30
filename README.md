@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742316733298/fe6db248-50e6-4f1a-b15f-3215702b6fa7.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sun, 30 Mar 2025 14:29:24 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><b>The one about layoffs in an American fintech</b></a>
+				<p>Shortly after I published a post about my experience working for an American fintech, the company send a message to the whole company via Slack. For obvious reasons, I will not share that message, but I would like to share some highlights:  The reven...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739389878945/8ac5c897-37fc-40ba-8aba-b9cfadc40e09.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 26 Feb 2025 17:00:47 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Fri, 29 Nov 2024 17:23:54 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-how-things-work-in-an-american-fintech"><b>The one about how things work in an American fintech</b></a>
 				<p>This is my first time working for any American company. In many ways things work differently here than with other companies I have previously worked for, so I will tell you here about the ins and outs of this American fintech I am working for as a co...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-linting-in-a-legacy-ruby-project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729268982009/0a5f70da-23a7-4955-b141-d70f89c32591.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 28 Oct 2024 07:06:37 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-linting-in-a-legacy-ruby-project"><b>The one about linting in a legacy Ruby project</b></a>
-				<p>Previously, I mentioned that I recently started working on a new project. New for me, of course. The platform of this American fintech consists of many applications developed in multiple programming languages, but mainly in Ruby. There are several de...</p>
 			</td>
 		</tr>
 </table>
