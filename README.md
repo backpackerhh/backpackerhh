@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-blogging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746204154363/eb94fb98-4299-4505-8cb9-20f9b56cc44d.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Tue, 29 Apr 2025 14:46:46 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-blogging"><b>The one about blogging</b></a>
+				<p>It has been two years now since I started writing this blog. The way I see it, maintaining a blog requires discipline. Those who know me well know that discipline is one of my key strengths. However, I never dared to take the leap before because seve...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742316733298/fe6db248-50e6-4f1a-b15f-3215702b6fa7.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sun, 30 Mar 2025 14:29:24 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 23 Dec 2024 09:53:04 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-using-factories-with-entities-in-sinatra"><b>The one about using factories with entities in Sinatra</b></a>
 				<p>I mentioned in a previous post that in the project I am currently working on we do not use Rails in most of the applications. There are some exceptions in certain legacy applications that represent the core of the project, from which we have been pro...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-how-things-work-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739389093975/346f6441-52ea-41d0-9be0-5ae4c24563cd.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Fri, 29 Nov 2024 17:23:54 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-how-things-work-in-an-american-fintech"><b>The one about how things work in an American fintech</b></a>
-				<p>This is my first time working for any American company. In many ways things work differently here than with other companies I have previously worked for, so I will tell you here about the ins and outs of this American fintech I am working for as a co...</p>
 			</td>
 		</tr>
 </table>
