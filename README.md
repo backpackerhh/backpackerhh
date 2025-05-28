@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748369490093/dd8f716c-0002-403b-ba5f-3fd1821f9d45.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Wed, 28 May 2025 19:26:49 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><b>The one about unrealistic expectations on software developers</b></a>
+				<p>This is a topic I have discussed countless times with developer peers and friends outside the tech world alike. It is generally agreed that software developers occupy a privileged position. This profession is not only highly in-demand but also offers...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-blogging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746204154363/eb94fb98-4299-4505-8cb9-20f9b56cc44d.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Tue, 29 Apr 2025 14:46:46 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Sat, 25 Jan 2025 12:08:35 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-learning-ruby"><b>The one about learning Ruby</b></a>
 				<p>I started working with Ruby in early 2010, on projects developed with Ruby on Rails. My mentor was influential enough to convince our bosses that this programming language and this framework were the best choice for future projects. We usually worked...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-using-factories-with-entities-in-sinatra"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734812714751/a2e4b95b-09b5-4e3e-b915-9a523cc9b668.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Mon, 23 Dec 2024 09:53:04 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-using-factories-with-entities-in-sinatra"><b>The one about using factories with entities in Sinatra</b></a>
-				<p>I mentioned in a previous post that in the project I am currently working on we do not use Rails in most of the applications. There are some exceptions in certain legacy applications that represent the core of the project, from which we have been pro...</p>
 			</td>
 		</tr>
 </table>
