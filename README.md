@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751186071676/7fba24fa-a92e-443e-8c4e-df8e2bea110f.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sun, 29 Jun 2025 08:36:20 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><b>The one with issues scheduling Sidekiq jobs in production</b></a>
+				<p>In the project I am currently working on, we have faced some issues lately scheduling Sidekiq jobs in one of our applications. In any case, I must admit that these issues were caused both by bad decisions made in the past and by not having configured...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748369490093/dd8f716c-0002-403b-ba5f-3fd1821f9d45.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 28 May 2025 19:26:49 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 26 Feb 2025 17:00:47 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><b>The one about my experience working for an American fintech</b></a>
 				<p>In a previous post, I talked about how things work in the American fintech I am currently working for as a contractor. I initially planned to write this post after my first three months, but I postponed it when we learned that all teams in the Transa...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-learning-ruby"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737487504845/5aa24c3c-3b31-4dab-9b10-db7981d4b53c.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Sat, 25 Jan 2025 12:08:35 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-learning-ruby"><b>The one about learning Ruby</b></a>
-				<p>I started working with Ruby in early 2010, on projects developed with Ruby on Rails. My mentor was influential enough to convince our bosses that this programming language and this framework were the best choice for future projects. We usually worked...</p>
 			</td>
 		</tr>
 </table>
