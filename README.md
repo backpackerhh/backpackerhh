@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-shortcuts-working-in-cursor-with-karabiner-elements"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753278053674/2552475e-82db-479e-b67f-abf5761fdd8f.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Wed, 23 Jul 2025 13:43:17 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-shortcuts-working-in-cursor-with-karabiner-elements"><b>The one about shortcuts working in Cursor with Karabiner-Elements</b></a>
+				<p>Recently, I was assigned a spike to check the feasibility of migrating a React application to a microfrontend with Sinatra + htmx entirely using AI. In this case, with Claude Code. Of course, I did not have to try to do the entire migration at once, ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751186071676/7fba24fa-a92e-443e-8c4e-df8e2bea110f.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sun, 29 Jun 2025 08:36:20 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Sun, 30 Mar 2025 14:29:24 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><b>The one about layoffs in an American fintech</b></a>
 				<p>Shortly after I published a post about my experience working for an American fintech, the company send a message to the whole company via Slack. For obvious reasons, I will not share that message, but I would like to share some highlights:  The reven...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739389878945/8ac5c897-37fc-40ba-8aba-b9cfadc40e09.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Wed, 26 Feb 2025 17:00:47 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-my-experience-working-for-an-american-fintech-6-months"><b>The one about my experience working for an American fintech</b></a>
-				<p>In a previous post, I talked about how things work in the American fintech I am currently working for as a contractor. I initially planned to write this post after my first three months, but I postponed it when we learned that all teams in the Transa...</p>
 			</td>
 		</tr>
 </table>
