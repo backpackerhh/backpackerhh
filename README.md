@@ -5,10 +5,10 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-shortcuts-working-in-cursor-with-karabiner-elements"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753278053674/2552475e-82db-479e-b67f-abf5761fdd8f.png" width="500" height="auto" /></a></td>
+			<td><a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753278053674/2552475e-82db-479e-b67f-abf5761fdd8f.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 23 Jul 2025 13:43:17 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-shortcuts-working-in-cursor-with-karabiner-elements"><b>The one about shortcuts working in Cursor with Karabiner-Elements</b></a>
+				<a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><b>The one about shortcuts in Cursor with Karabiner-Elements</b></a>
 				<p>Recently, I was assigned a spike to check the feasibility of migrating a React application to a microfrontend with Sinatra + htmx entirely using AI. In this case, with Claude Code. Of course, I did not have to try to do the entire migration at once, ...</p>
 			</td>
 		</tr>
