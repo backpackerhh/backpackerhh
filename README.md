@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-accepting-tab-suggestions-in-cursor"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1756143334985/5b51dc25-e807-44b8-93ad-38116dff3f2d.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Mon, 25 Aug 2025 18:29:19 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-accepting-tab-suggestions-in-cursor"><b>The one about accepting Tab suggestions in Cursor</b></a>
+				<p>In the previous post, I mentioned that I was starting to use Cursor as my main IDE, after having worked with VSCode and Copilot for a while. A key advantage of Cursor for VSCode users is its support for the same keyboard shortcuts, allowing for a sea...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753278053674/2552475e-82db-479e-b67f-abf5761fdd8f.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 23 Jul 2025 13:43:17 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Tue, 29 Apr 2025 14:46:46 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-blogging"><b>The one about blogging</b></a>
 				<p>It has been two years now since I started writing this blog. The way I see it, maintaining a blog requires discipline. Those who know me well know that discipline is one of my key strengths. However, I never dared to take the leap before because seve...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1742316733298/fe6db248-50e6-4f1a-b15f-3215702b6fa7.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Sun, 30 Mar 2025 14:29:24 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-layoffs-in-an-american-fintech"><b>The one about layoffs in an American fintech</b></a>
-				<p>Shortly after I published a post about my experience working for an American fintech, the company send a message to the whole company via Slack. For obvious reasons, I will not share that message, but I would like to share some highlights:  The reven...</p>
 			</td>
 		</tr>
 </table>
