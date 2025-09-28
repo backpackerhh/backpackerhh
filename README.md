@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-my-experience-at-sngular-so-far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1758645523723/d6c60567-fdd2-41fe-a032-d31f5549dd35.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sun, 28 Sep 2025 18:14:46 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-my-experience-at-sngular-so-far"><b>The one about my experience at SNGULAR (so far)</b></a>
+				<p>It has been a full year since I joined SNGULAR. In this post, I want to talk about my experience with them so far. As I mentioned when I landed this job, working for a consulting firm was not in my plans when I started looking for a new job at the be...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-accepting-tab-suggestions-in-cursor"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1756143334985/5b51dc25-e807-44b8-93ad-38116dff3f2d.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Mon, 25 Aug 2025 18:29:19 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 28 May 2025 19:26:49 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><b>The one about unrealistic expectations on software developers</b></a>
 				<p>This is a topic I have discussed countless times with developer peers and friends outside the tech world alike. It is generally agreed that software developers occupy a privileged position. This profession is not only highly in-demand but also offers...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-blogging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746204154363/eb94fb98-4299-4505-8cb9-20f9b56cc44d.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Tue, 29 Apr 2025 14:46:46 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-blogging"><b>The one about blogging</b></a>
-				<p>It has been two years now since I started writing this blog. The way I see it, maintaining a blog requires discipline. Those who know me well know that discipline is one of my key strengths. However, I never dared to take the leap before because seve...</p>
 			</td>
 		</tr>
 </table>
