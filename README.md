@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-a-new-project-working-for-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1761157290326/87cd9574-3b97-4c30-a212-6a499d74e73b.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Wed, 29 Oct 2025 19:35:45 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-a-new-project-working-for-an-american-fintech"><b>The one about a new project working for an American fintech</b></a>
+				<p>At the beginning of this year I talked about the layoffs in the American fintech I work for as a contractor. That story is key to what comes next. For a long time, the company was focused entirely on education. They finally decided to diversify, bett...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-my-experience-at-sngular-so-far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1758645523723/d6c60567-fdd2-41fe-a032-d31f5549dd35.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sun, 28 Sep 2025 18:14:46 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Sun, 29 Jun 2025 08:36:20 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><b>The one with issues scheduling Sidekiq jobs in production</b></a>
 				<p>In the project I am currently working on, we have faced some issues lately scheduling Sidekiq jobs in one of our applications. In any case, I must admit that these issues were caused both by bad decisions made in the past and by not having configured...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748369490093/dd8f716c-0002-403b-ba5f-3fd1821f9d45.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Wed, 28 May 2025 19:26:49 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-unrealistic-expectations-on-software-developers"><b>The one about unrealistic expectations on software developers</b></a>
-				<p>This is a topic I have discussed countless times with developer peers and friends outside the tech world alike. It is generally agreed that software developers occupy a privileged position. This profession is not only highly in-demand but also offers...</p>
 			</td>
 		</tr>
 </table>
