@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-one-about-adding-borders-between-columns-in-a-grid"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1764417508943/7deb490d-8389-4aed-bab2-c971d85968b6.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Sat, 29 Nov 2025 11:58:57 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-one-about-adding-borders-between-columns-in-a-grid"><b>The one about adding borders between columns in a grid</b></a>
+				<p>Here begins a new blog series where I plan to share useful tips I discover in my day-to-day development work.  Translating a Figma design into code for the new project I am currently working on, I encountered a specific UI requirement: a container wi...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-a-new-project-working-for-an-american-fintech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1761157290326/87cd9574-3b97-4c30-a212-6a499d74e73b.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Wed, 29 Oct 2025 19:35:45 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Wed, 23 Jul 2025 13:43:17 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><b>The one about shortcuts in Cursor with Karabiner-Elements</b></a>
 				<p>Recently, I was assigned a spike to check the feasibility of migrating a React application to a microfrontend with Sinatra + htmx entirely using AI. In this case, with Claude Code. Of course, I did not have to try to do the entire migration at once, ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751186071676/7fba24fa-a92e-443e-8c4e-df8e2bea110f.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Sun, 29 Jun 2025 08:36:20 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-with-issues-scheduling-sidekiq-jobs-in-production"><b>The one with issues scheduling Sidekiq jobs in production</b></a>
-				<p>In the project I am currently working on, we have faced some issues lately scheduling Sidekiq jobs in one of our applications. In any case, I must admit that these issues were caused both by bad decisions made in the past and by not having configured...</p>
 			</td>
 		</tr>
 </table>
