@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><a href="https://blog.davidmp.es/the-about-about-working-with-a-flexible-schedule"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1766914603557/c4a2aea6-94cb-42e4-962b-0ad09adb2d77.png" width="500" height="auto" /></a></td>
+			<td>
+				<sup>Tue, 30 Dec 2025 10:17:55 GMT</sup><br />
+				<a href="https://blog.davidmp.es/the-about-about-working-with-a-flexible-schedule"><b>The about about working with a flexible schedule</b></a>
+				<p>A while back, I wrote about my experience working remotely. I mentioned that, having seen the advantages of this way of working, today I would not consider accepting office-based or mandatory hybrid work models. But that's not all. As I see it, the p...</p>
+			</td>
+		</tr>
+<tr>
 			<td><a href="https://blog.davidmp.es/the-one-about-adding-borders-between-columns-in-a-grid"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1764417508943/7deb490d-8389-4aed-bab2-c971d85968b6.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Sat, 29 Nov 2025 11:58:57 GMT</sup><br />
@@ -34,14 +42,6 @@
 				<sup>Mon, 25 Aug 2025 18:29:19 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-accepting-tab-suggestions-in-cursor"><b>The one about accepting Tab suggestions in Cursor</b></a>
 				<p>In the previous post, I mentioned that I was starting to use Cursor as my main IDE, after having worked with VSCode and Copilot for a while. A key advantage of Cursor for VSCode users is its support for the same keyboard shortcuts, allowing for a sea...</p>
-			</td>
-		</tr>
-<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753278053674/2552475e-82db-479e-b67f-abf5761fdd8f.png" width="500" height="auto" /></a></td>
-			<td>
-				<sup>Wed, 23 Jul 2025 13:43:17 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-shortcuts-in-cursor-with-karabiner-elements"><b>The one about shortcuts in Cursor with Karabiner-Elements</b></a>
-				<p>Recently, I was assigned a spike to check the feasibility of migrating a React application to a microfrontend with Sinatra + htmx entirely using AI. In this case, with Claude Code. Of course, I did not have to try to do the entire migration at once, ...</p>
 			</td>
 		</tr>
 </table>
