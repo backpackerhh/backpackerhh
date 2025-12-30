@@ -5,7 +5,7 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-true-flexible-schedules"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1766914603557/c4a2aea6-94cb-42e4-962b-0ad09adb2d77.png" width="500" height="auto" /></a></td>
+			<td><a href="https://blog.davidmp.es/the-one-about-true-flexible-schedules"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1767090400402/9df4c3cc-e678-4a33-9295-21a00bfa4b5e.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Tue, 30 Dec 2025 10:17:55 GMT</sup><br />
 				<a href="https://blog.davidmp.es/the-one-about-true-flexible-schedules"><b>The one about true flexible schedules</b></a>
