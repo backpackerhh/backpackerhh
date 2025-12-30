@@ -5,10 +5,10 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
-			<td><a href="https://blog.davidmp.es/the-one-about-true-flexible-schedule"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1766914603557/c4a2aea6-94cb-42e4-962b-0ad09adb2d77.png" width="500" height="auto" /></a></td>
+			<td><a href="https://blog.davidmp.es/the-one-about-true-flexible-schedules"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1766914603557/c4a2aea6-94cb-42e4-962b-0ad09adb2d77.png" width="500" height="auto" /></a></td>
 			<td>
 				<sup>Tue, 30 Dec 2025 10:17:55 GMT</sup><br />
-				<a href="https://blog.davidmp.es/the-one-about-true-flexible-schedule"><b>The one about true flexible schedule</b></a>
+				<a href="https://blog.davidmp.es/the-one-about-true-flexible-schedules"><b>The one about true flexible schedules</b></a>
 				<p>A while back, I wrote about my experience working remotely. I mentioned that, having seen the advantages of this way of working, today I would not consider accepting office-based or mandatory hybrid work models. But that's not all. As I see it, the p...</p>
 			</td>
 		</tr>
