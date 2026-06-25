@@ -50,7 +50,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/graceful-potato/rspec-swag/pull/1) in [graceful-potato/rspec-swag](https://github.com/graceful-potato/rspec-swag)
+1. 🎉 Merged PR [#1](https://github.com/backpackerhh/github-latest-hashnode-posts/pull/1) in [backpackerhh/github-latest-hashnode-posts](https://github.com/backpackerhh/github-latest-hashnode-posts)
 2. 🗣 Commented on [#172](https://github.com/ctt-gob-es/clienteafirma/issues/172) in [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma)
 <!--END_SECTION:activity-->
 
