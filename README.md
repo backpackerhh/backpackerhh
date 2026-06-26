@@ -1,4 +1,10 @@
-# Hi there 👋
+# Hi, I'm David 👋
+
+With over 15 years of experience as a software engineer, I've built products for companies ranging from small startups to scaling unicorns. For most of my career I've worked as a full stack engineer, with a special focus on the backend, developing products with clean, maintainable, and testable code. I am used to taking full ownership of features and projects in agile teams from start to finish, from the conception of the idea to the deployment to production.
+
+Curiosity is a big part of who I am, which keeps me constantly learning new technologies and tools. For the right project I am willing to work with any programming language.
+
+I am particularly interested in mature agile projects developed using DDD and clean architectures. My ideal team is one where I'm surrounded by people who know far more than I do about these topics, with the chance to learn something new every day.
 
 ## Latest blog posts
 
