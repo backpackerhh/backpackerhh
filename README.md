@@ -47,13 +47,6 @@
 </table>
 <!-- HASHNODE_POSTS:END -->
 
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/backpackerhh/github-latest-hashnode-posts/pull/1) in [backpackerhh/github-latest-hashnode-posts](https://github.com/backpackerhh/github-latest-hashnode-posts)
-2. 🎉 Merged PR [#1](https://github.com/backpackerhh/github-latest-hashnode-posts/pull/1) in [backpackerhh/github-latest-hashnode-posts](https://github.com/backpackerhh/github-latest-hashnode-posts)
-<!--END_SECTION:activity-->
-
 <!--
 **backpackerhh/backpackerhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
