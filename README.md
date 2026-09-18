@@ -11,6 +11,13 @@ I am particularly interested in mature agile projects developed using DDD and cl
 <!-- HASHNODE_POSTS:START -->
 <table><tr>
                 <td>
+                    <sup>Fri, 18 Sep 2026 21:32:31 GMT</sup><br />
+                    <a href="https://davidmontesdeoca.dev/the-one-about-fixing-spotify-playback-issues-on-ubuntu"><b>The one about fixing Spotify playback issues on Ubuntu</b></a>
+                    <p>Bypass Snap sandboxing audio conflicts on Ubuntu 24.04 LTS. A quick guide to routing the Spotify client through a PulseAudio wrapper script.</p>
+                </td>
+            </tr>
+<tr>
+                <td>
                     <sup>Fri, 21 Aug 2026 17:24:12 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-about-my-experience-at-sngular-year-2"><b>The one about my experience at SNGULAR (year 2)</b></a>
                     <p>Reflecting on my second year at SNGULAR: new IT policies, salary expectations vs. reality, and client work stability.</p>
@@ -35,13 +42,6 @@ I am particularly interested in mature agile projects developed using DDD and cl
                     <sup>Sun, 31 May 2026 10:16:54 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-about-overriding-htmx-s-default-behavior-on-failure"><b>The one about overriding htmx's default behavior on failure</b></a>
                     <p>Learn how to handle complex UI validation errors in htmx while keeping your code clean and respecting Locality of Behavior (LoB).</p>
-                </td>
-            </tr>
-<tr>
-                <td>
-                    <sup>Tue, 28 Apr 2026 19:00:58 GMT</sup><br />
-                    <a href="https://davidmontesdeoca.dev/the-one-with-the-ruby-dsl-for-ui-components"><b>The one with the Ruby DSL for UI components</b></a>
-                    <p>Learn how to build a block DSL for server-rendered Ruby components with thread-local stacks</p>
                 </td>
             </tr></table>
 <!-- HASHNODE_POSTS:END -->
