@@ -11,6 +11,13 @@ I am particularly interested in mature agile projects developed using DDD and cl
 <!-- HASHNODE_POSTS:START -->
 <table><tr>
                 <td>
+                    <sup>Sun, 11 Oct 2026 19:02:53 GMT</sup><br />
+                    <a href="https://davidmontesdeoca.dev/the-one-about-my-experience-working-for-an-american-fintech-year-2"><b>The one about my experience working for an American fintech (year 2)</b></a>
+                    <p>Reflecting on two years at an American fintech: microfrontend migrations, team reassignments, handling loss, and company-wide AI tools.</p>
+                </td>
+            </tr>
+<tr>
+                <td>
                     <sup>Fri, 18 Sep 2026 21:32:31 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-about-fixing-spotify-playback-issues-on-ubuntu"><b>The one about fixing Spotify playback issues on Ubuntu</b></a>
                     <p>Bypass Snap sandboxing audio conflicts on Ubuntu 24.04 LTS. A quick guide to routing the Spotify client through a PulseAudio wrapper script.</p>
@@ -35,13 +42,6 @@ I am particularly interested in mature agile projects developed using DDD and cl
                     <sup>Mon, 22 Jun 2026 21:09:14 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-about-choosing-where-htmx-logic-belongs"><b>The one about choosing where htmx logic belongs</b></a>
                     <p>Compare view-level events and server response headers to handle htmx failures. Explore the trade-offs and decide where your logic truly belongs.</p>
-                </td>
-            </tr>
-<tr>
-                <td>
-                    <sup>Sun, 31 May 2026 10:16:54 GMT</sup><br />
-                    <a href="https://davidmontesdeoca.dev/the-one-about-overriding-htmx-s-default-behavior-on-failure"><b>The one about overriding htmx's default behavior on failure</b></a>
-                    <p>Learn how to handle complex UI validation errors in htmx while keeping your code clean and respecting Locality of Behavior (LoB).</p>
                 </td>
             </tr></table>
 <!-- HASHNODE_POSTS:END -->
