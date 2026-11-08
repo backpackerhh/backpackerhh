@@ -11,6 +11,13 @@ I am particularly interested in mature agile projects developed using DDD and cl
 <!-- HASHNODE_POSTS:START -->
 <table><tr>
                 <td>
+                    <sup>Sun, 08 Nov 2026 21:40:35 GMT</sup><br />
+                    <a href="https://davidmontesdeoca.dev/the-one-about-migrating-notes-from-turtl-to-notion"><b>The one about migrating notes from Turtl to Notion</b></a>
+                    <p>Learn how to migrate travel notes from Turtl to Notion using Python and Claude Code. Solve Notion API limits, parse JSON, and automate the build.</p>
+                </td>
+            </tr>
+<tr>
+                <td>
                     <sup>Sun, 11 Oct 2026 19:02:53 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-about-my-experience-working-for-an-american-fintech-year-2"><b>The one about my experience working for an American fintech (year 2)</b></a>
                     <p>Reflecting on two years at an American fintech: microfrontend migrations, team reassignments, handling loss, and company-wide AI tools.</p>
@@ -35,13 +42,6 @@ I am particularly interested in mature agile projects developed using DDD and cl
                     <sup>Sun, 26 Jul 2026 09:03:30 GMT</sup><br />
                     <a href="https://davidmontesdeoca.dev/the-one-where-backups-keep-your-latest-posts-on-your-github-profile-up-to-date"><b>The one where backups keep your latest posts on your GitHub profile up to date</b></a>
                     <p>Learn to automate your GitHub profile README with your latest blog posts using GitHub Actions and local Markdown backups. No external APIs required!</p>
-                </td>
-            </tr>
-<tr>
-                <td>
-                    <sup>Mon, 22 Jun 2026 21:09:14 GMT</sup><br />
-                    <a href="https://davidmontesdeoca.dev/the-one-about-choosing-where-htmx-logic-belongs"><b>The one about choosing where htmx logic belongs</b></a>
-                    <p>Compare view-level events and server response headers to handle htmx failures. Explore the trade-offs and decide where your logic truly belongs.</p>
                 </td>
             </tr></table>
 <!-- HASHNODE_POSTS:END -->
